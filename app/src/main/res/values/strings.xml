@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Internship Onboarding</string>
+    <string name="welcome_title">Welcome to Your Internship!</string>
+    <string name="progress_label">Progress</string>
+    <string name="next_step_label">Next</string>
+    <string name="step_details">Step Details</string>
+    <string name="description">Description</string>
+    <string name="resources">Resources</string>
+    <string name="setup_instructions">Setup Instructions</string>
+    <string name="learning_guide">Learning Guide</string>
+    <string name="project_instructions">Project Instructions</string>
+    <string name="what_to_expect">What to Expect</string>
+    <string name="estimated_time">Estimated time: %s</string>
+    <string name="completed_steps">%d of %d completed</string>
+    <string name="progress_percentage">%d%% Complete</string>
+</resources>
